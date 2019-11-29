@@ -17,4 +17,4 @@ ui框架含有支付宝框架ant-mobile
 
 ## 展示
 
-![1](https://github.com/sxy1990/cnodeReact/assets/1.png)
+![avatar](https://github.com/sxy1990/cnodeReact/assets/1.png)
