@@ -2,3 +2,11 @@
     width: 45px;
     height: 45px;
 }
+#comment .flex-one{
+    overflow: hidden;
+    white-space: normal;
+    word-break: break-all;
+}
+#comment .flex-one code{
+    white-space: normal;
+}
