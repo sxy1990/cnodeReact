@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333;
+}
+*{
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.bg-white{
+  background: #fff;
+}
+.p-m{
+  padding:20px;
+}
+.p-sm{
+  padding:10px;
+}
+.m-t-sm{
+  margin-top:10px;
+}
+.m-b-sm{
+  margin-bottom:10px;
+}
+.flex{
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-one{
+  flex:1;
+}
+.items-center{
+  align-items: center;
+}
+.justify-between{
+  justify-content: space-between;
+}
+.texthid{
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.text-lightgray{
+  color: #999;
+}
+.m-r-sm{
+  margin-right: 10px;
+}
+.m-r-xs{
+  margin-right: 5px;
+}
+.m-b-xs{
+  margin-bottom: 5px;
+}
+.text-center{
+  text-align: center;
+}
+.btn-collect{
+  display: inline-block;
+  padding:0 20px;
+  line-height: 30px;
+  color: #fff;
+  background: #079395;
+  border-radius: 5px;
+  font-size: 14px;
+
+}
+.btn-deCollect{
+  background: #ccc;
+}
+.gray-pane{
+  background: #e6e6e6;
+  height: 10px;
+}
+.text-navy{
+  color: #079395;
+}
+.f14{
+  font-size: 14px;
+}
+.f16{
+  font-size: 16px;
+}
+.block{
+  display: block;
+}
+.text-right{
+  text-align: right;
+}
+.no-scroll::-webkit-scrollbar{
+    width: 0 !important
+}
+.no-scroll { overflow: -moz-scrollbars-none; }
+.no-scroll { -ms-overflow-style: none; }
+/*加载动画*/
+#loading{
+  text-align: center;
+  padding: 100px 0;
+}
+.k-line{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  margin: 20px 5px 0;
+  background: #079395;
+}
+.k-lineA-1{
+  animation: k-loadingA 1.5s 0s infinite;
+}
+.k-lineA-2{
+  animation: k-loadingA 1.5s 0.3s infinite;
+}
+.k-lineA-3{
+  animation: k-loadingA 1.5s 0.6s infinite;
+}
+.k-lineA-4{
+  animation: k-loadingA 1.5s 0.9s infinite;
+}
+.k-lineA-5{
+  animation: k-loadingA 1.5s 1.2s infinite;
+}
+@keyframes k-loadingA {
+  50% {
+    height: 40px;
+  }
+  100% {
+    height: 15px;
+  }
+}

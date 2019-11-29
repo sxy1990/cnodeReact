@@ -1,0 +1,18 @@
+#listItem .img{
+    width: 64px;
+    height: 64px;
+    border:1px solid #079395;
+    border-radius: 100%;
+    margin-right: 14px;
+}
+#listItem h4{
+    font-size: 14px;
+    margin-bottom: 16px;
+   
+}
+#listItem .flex-one{
+    overflow: hidden;
+}
+#listItem p{
+    font-size: 12px;
+}

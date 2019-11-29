@@ -1,0 +1,31 @@
+.detail .header{
+    border-bottom: 1px solid #d9d9d9;
+    padding:5px 10px;
+}
+.detail .header-top{
+    padding-bottom: 5px;
+}
+.detail .header-top h4{
+    font-size: 20px;
+}
+
+.detail .content{
+    padding: 10px;
+    line-height: 1.4;
+    font-size: 16px;
+}
+.detail .content p{
+    margin-bottom: 10px;
+}
+.detail .content img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.detail .content a{
+    color: #079395;
+}
+.detail .content code{
+    white-space: normal;
+    word-break: break-all;
+}

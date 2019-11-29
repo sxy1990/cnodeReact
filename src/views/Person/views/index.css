@@ -1,0 +1,21 @@
+#person .header-top{
+    padding:20px;
+    position: relative;
+}
+#person .avatar .img{
+    border: 2px solid #079395;
+    width: 72px;
+    height: 72px;
+    margin-bottom: 8px;
+    border-radius: 100%;
+}
+#person .score{
+    position: absolute;
+    right: 0;
+    top: 20px;
+    padding:6px;
+    background: #079395;
+    color: #fff;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
