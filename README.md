@@ -17,11 +17,4 @@ ui框架含有支付宝框架ant-mobile
 
 ## 展示
 
-![img](file:///C:\Users\Administrator\AppData\Roaming\Tencent\Users\1107820047\QQ\WinTemp\RichOle\N11@PNN]C~@`KVAF`[MYCEN.png)
-
-![img](file:///C:\Users\Administrator\AppData\Roaming\Tencent\Users\1107820047\QQ\WinTemp\RichOle\ASE1TX0XNWX34]SS4J`SHJT.png)
-
-![img](file:///C:\Users\Administrator\AppData\Roaming\Tencent\Users\1107820047\QQ\WinTemp\RichOle\7_R2TDK}_FBQT38}ZZ9QHNL.png)
-
-![img](file:///C:\Users\Administrator\AppData\Roaming\Tencent\Users\1107820047\QQ\WinTemp\RichOle\HW[24MB~5%37$}~VESM@U@2.png)![img](file:///C:\Users\Administrator\AppData\Roaming\Tencent\Users\1107820047\QQ\WinTemp\RichOle\HW[24MB~5%37$}~VESM@U@2.png)
-
+![1](https://github.com/sxy1990/cnodeReact/assets/1.png)
